@@ -1,27 +1,33 @@
-# 👋 Hey, I’m Yann (aka @yannts243)
+Hi, I’m Jean-Pierre Yann
 
-Engineer. Builder. Explorer of the crossroads between **mobile**, **cloud**, and **AI** — with a strong focus on designing tech solutions rooted in African realities.
+Data, AI and Cloud Computing enthusiast from the Democratic Republic of the Congo.
 
-## ⚙️ What I Do
+I’m interested in the intersection of data analytics, artificial intelligence, financial systems, and cloud technologies, with a focus on solving practical problems through technology.
 
-- 🚀 I build **lean and solid MVPs** using Flutter + Django.
-- 📊 I craft **applied data science projects**, focused on real-world use cases.
-- 🔐 I advocate for **responsible, context-aware tech** (DRC 🇨🇩 & beyond).
-- 🧠 I experiment with **generative AI and mobile-first architectures**.
+Areas of Interest
 
-## 🔍 Currently
+* Data Analytics & Data Science
+* Artificial Intelligence & NLP
+* Cloud Computing
+* Financial Systems, Risk & Compliance
+* Data Quality, Automation & Process Improvement
 
-- 📱 Building **Dariway**, a local ride-sharing app tailored for the DRC.
-- 🌱 Deepening my skills in Flutter (Riverpod + advanced animations).
-- 🧑‍💻 Open to collaborations around Django & cloud-native APIs.
+What I’m Working On
 
-## 🤝 Let’s Connect
+* Exploring applications of AI in banking, compliance and fraud detection
+* Building data-driven solutions and automation workflows
+* Learning more about risk management, AML/KYC processes and regulatory technology
+* Contributing to technology and digital education initiatives
 
-Working on something bold?  
-Wanna talk mobile-cloud, AI, or just smart tech made in Africa?  
-📬 Reach out via [LinkedIn](https://www.linkedin.com/in/jean-pierre-tshiambi-80514a274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or drop a line here on GitHub.
+Currently Learning
 
----
+* Advanced Data Analytics
+* Machine Learning & NLP
+* Cloud Architecture
+* Financial Risk & Compliance Technologies
 
-**Fun fact**: My code reflects the field.  
-**Pronouns**: He / You (mutual respect matters).
+Connect
+
+I’m always interested in meaningful discussions around data, AI, finance, cloud computing, and technology in Africa.
+
+Connect with me on LinkedIn or here on GitHub.
